@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @watermelondiet
+- 👋 Hi, I’m Mike.
 - 👀 I’m interested in ... data science and generative art.
 - 🌱 I’m currently learning ... R, SQL, and Python 
 - 💞️ I’m looking to collaborate on ... data analysis for portfolio
