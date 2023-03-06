@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mike.
-- 👀 I’m interested in ... data science, blockchain, finance, and front-end development.
-- 🌱 I’m currently learning ... R, SQL, and Python 
-- 💞️ I’m looking to collaborate on ... building data pipelines, data analysis, and vizualization. NFT projects - smart contracts, generative art, and NFT enabled front ends.
+- 👀 I’m interested in ... data science and finance.
+- 🌱 I’m currently learning ... R, SQL, Python, and Tableau.
+- 💞️ I’m looking to collaborate on ... building data pipelines, data analysis, and vizualization. 
 - 📫 How to reach me ... 
 discord watermelon_diet#1367
 medium https://medium.com/@watermelon_diet
