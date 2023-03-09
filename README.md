@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... building data pipelines, data analysis, and vizualization. 
 - 📫 How to reach me ... 
 discord watermelon_diet#1367
-medium https://medium.com/@watermelon_diet
+email mcooke.jobs@gmail.com
 
 <!---
 watermelondiet/watermelondiet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
