@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mike.
 - 👀 I’m interested in ... data science and finance.
-- 🌱 I’m currently learning ... R, SQL, Python, and Tableau.
+- 🌱 I’m currently learning ... cybersecurity.
 - 💞️ I’m looking to collaborate on ... data analysis and vizualization. 
 - 📫 How to reach me ... mcooke.jobs@gmail.com
 
