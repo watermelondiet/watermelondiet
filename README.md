@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Mike.
-- 👀 I’m interested in ... data science and finance.
+- 👀 I’m interested in ... cybersecurity, data science, and finance.
 - 🌱 I’m currently learning ... cybersecurity.
-- 💞️ I’m looking to collaborate on ... data analysis and vizualization. 
-- 📫 How to reach me ... mcooke.jobs@gmail.com
+- 💞️ I’m looking to collaborate on ... data analysis, CTFs, and security automation. 
+- 📫 How to reach me ... mc.cooke@proton.me
 
 <!---
 watermelondiet/watermelondiet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
